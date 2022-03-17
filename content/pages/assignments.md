@@ -31,7 +31,7 @@ But, because your patient had mentioned that he did a Web search you look up the
 
 2\. What are the possible clinical associations for GM? How would you work him up or screen him for these other associations? Draw an alternative decision tree to the one shown in Figure 1.
 
-{{< resource 5407c572-8eee-ceb2-61ec-205e2fb935b5 "Assignment: Figure 1, MTS" >}}
+{{< resource "5407c572-8eee-ceb2-61ec-205e2fb935b5" >}}
 
 Fig. 1. Patient With MTC (Image courtesy of Prof. Isaac Kohane.)
 
